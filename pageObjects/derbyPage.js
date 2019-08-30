@@ -88,13 +88,5 @@ module.exports = {
             selector: '//a[@aria-label="http://www.derbymuseum.org + Kentucky Derby Museum"]',
             locateStrategy: 'xpath'              
         },
-        
-
-
-
-
-        
-
-
-        }
-        }
+    }
+}
